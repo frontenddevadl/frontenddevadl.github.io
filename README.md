@@ -9,7 +9,7 @@
 1. Submit a pull request
 1. At least one other person in the frontenddevadl group should review & approve it (someone not involved in making the change)
 
-New to contributing? Check the following guide: [Contributing.md](https://gist.github.com/MarcDiethelm/7303312)
+New to contributing? Follow this [excellent guide](https://gist.github.com/Chaser324/ce0505fbed06b947d962) by Chaser324.
 
 ## Testing site locally
 
