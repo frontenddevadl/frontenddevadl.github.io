@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Welcome!"
+date:   2018-05-26 19:45:00 +0930
+categories: news
+---
+We're holding our first meetup on June 26, 2018.
+
+Join here: [June 2018 - First meetup! Intro, Front-End Overview, Angular Conf Wrap-up][meetup-june]
+
+[meetup-june]: https://www.meetup.com/Front-End-Developers-Adelaide-FEDA/events/250875178/
+
